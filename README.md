@@ -99,8 +99,8 @@ To help protect personal information, this repository does not intentionally inc
 - 📱 Private phone numbers
 - 🪪 Government-issued identification numbers
 - 🏠 Private addresses
-- 📧 Personal email addresses that are not intended for public exposure
-- 🗄️ Private database credentials
+- 📧 Private email addresses
+- 🗄️ Database credentials
 - ⚙️ Environment variables containing sensitive information
 
 «Important: Never commit API keys, passwords, tokens, database credentials, ".env" files, or other secrets to a public repository.»
